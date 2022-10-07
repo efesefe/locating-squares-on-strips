@@ -1,0 +1,1 @@
+# locating-squares-on-strips
